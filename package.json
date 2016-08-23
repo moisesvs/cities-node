@@ -1,0 +1,15 @@
+{
+	"author": "Jacob Holloway",
+	"name": "jacobj66-weather",
+	"version": "0.0.1",
+	"description": "Weather server for cs360",
+	"main": "staticFileServer",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jhollowayj/CS360-npm-weather"
+	},
+	"dependencies": {},
+	"engines": {
+		"node" : "*"
+	}
+}

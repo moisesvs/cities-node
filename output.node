@@ -1,0 +1,135 @@
+nohup: ignoring input
+URL Path /w.html
+URL Search 
+URL Query undefined
+URL Path /w.js
+URL Search 
+URL Query undefined
+URL Path /test1.html
+URL Search 
+URL Query undefined
+URL Path /test3.gif
+URL Search 
+URL Query undefined
+URL Path /w.html
+URL Search 
+URL Query undefined
+URL Path /w.js
+URL Search 
+URL Query undefined
+URL Path /getcity
+URL Search ?q=P
+URL Query P
+/^P/
+query is   P
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[{"city":"Panguitch"},{"city":"Paradise"},{"city":"Paragonah"},{"city":"Park City"},{"city":"Park Valley"},{"city":"Parowan"},{"city":"Payson"},{"city":"Peoa"},{"city":"Pine Valley"},{"city":"Pleasant Grove"},{"city":"Plymouth"},{"city":"Portage"},{"city":"Price"},{"city":"Providence"},{"city":"Provo"}]
+URL Path /getcity
+URL Search ?q=P
+URL Query P
+/^P/
+query is   P
+Panguitch
+Paradise
+Paragonah
+Park City
+Park Valley
+Parowan
+Payson
+Peoa
+Pine Valley
+Pleasant Grove
+Plymouth
+Portage
+Price
+Providence
+Provo
+[ { city: 'Panguitch' },
+  { city: 'Paradise' },
+  { city: 'Paragonah' },
+  { city: 'Park City' },
+  { city: 'Park Valley' },
+  { city: 'Parowan' },
+  { city: 'Payson' },
+  { city: 'Peoa' },
+  { city: 'Pine Valley' },
+  { city: 'Pleasant Grove' },
+  { city: 'Plymouth' },
+  { city: 'Portage' },
+  { city: 'Price' },
+  { city: 'Providence' },
+  { city: 'Provo' } ]
+[{"city":"Panguitch"},{"city":"Paradise"},{"city":"Paragonah"},{"city":"Park City"},{"city":"Park Valley"},{"city":"Parowan"},{"city":"Payson"},{"city":"Peoa"},{"city":"Pine Valley"},{"city":"Pleasant Grove"},{"city":"Plymouth"},{"city":"Portage"},{"city":"Price"},{"city":"Providence"},{"city":"Provo"}]
+URL Path /getcity
+URL Search ?q=Pr
+URL Query Pr
+/^Pr/
+query is   Pr
+Price
+Providence
+Provo
+[ { city: 'Price' }, { city: 'Providence' }, { city: 'Provo' } ]
+[{"city":"Price"},{"city":"Providence"},{"city":"Provo"}]
+URL Path /getcity
+URL Search ?q=Pro
+URL Query Pro
+/^Pro/
+query is   Pro
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[{"city":"Providence"},{"city":"Provo"}]
+URL Path /getcity
+URL Search ?q=Prov
+URL Query Prov
+/^Prov/
+query is   Prov
+Providence
+Provo
+[ { city: 'Providence' }, { city: 'Provo' } ]
+[{"city":"Providence"},{"city":"Provo"}]
+URL Path /getcity
+URL Search ?q=Provo
+URL Query Provo
+/^Provo/
+query is   Provo
+Provo
+[ { city: 'Provo' } ]
+[{"city":"Provo"}]
+URL Path /getcity
+URL Search ?q=Provo
+URL Query Provo
+/^Provo/
+query is   Provo
+Provo
+[ { city: 'Provo' } ]
+[{"city":"Provo"}]
